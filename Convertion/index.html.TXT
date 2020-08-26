@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="convert.js"></script>
+  </head>
+  <body>
+    <form id="cel" action="/action_page.php" target="_self">
+      <lebel for="tCel">enter celsius:</lebel><br />
+      <input type="text"
+    </form>
+  </body>
+</html>
